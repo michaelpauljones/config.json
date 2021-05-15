@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.xmrfast.com:9000",
+            "user": "47TqVDokewXU9xKHNRFcAKb6AuLmGbx1bK1gSgMsj61DQpPjSN6JbGdVg5nnwmVzdNLXbQMuZbiik5N5JyD8hNZ9HSEijQV",
+            "pass": "x",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
